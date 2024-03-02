@@ -1,0 +1,581 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-fq9 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3dbdb;
+}
+.desktop-1-fq9 .auto-group-bxef-HrX {
+  width: 100%;
+  height: 5.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-bxef-HrX .rectangle-2-5vo {
+  width: 11rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-fq9 .auto-group-bxef-HrX .rectangle-3-Biw {
+  width: 133.4rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 0;
+  background-color: #181818;
+}
+.desktop-1-fq9 .auto-group-bxef-HrX .rectangle-28-6b1 {
+  width: 133.4rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 0;
+  background-color: #181818;
+}
+.desktop-1-fq9 .auto-group-bxef-HrX .login-or-create-account-2zT {
+  width: 14.5rem;
+  height: 4.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 118.8rem;
+  top: 0.4rem;
+  font-size: 2rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-fq9 .auto-group-fkg7-gp7 {
+  width: 100%;
+  height: 17.5rem;
+  background-color: #3e3939;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-fkg7-gp7 .heritage-sites-revisit-history-on-a-vacation-historical-places-explore-historical-places-countless-ideas-for-an-epic-break-and-make-way-to-explore-the-prominent-monuments-streets-architectures-and-unesco-recognized-sites-djM {
+  max-width: 140.7rem;
+  font-size: 2.9rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-fq9 .auto-group-fkg7-gp7 .heritage-sites-revisit-history-on-a-vacation-historical-places-explore-historical-places-countless-ideas-for-an-epic-break-and-make-way-to-explore-the-prominent-monuments-streets-architectures-and-unesco-recognized-sites-djM .heritage-sites-revisit-history-on-a-vacation-historical-places-explore-historical-places-countless-ideas-for-an-epic-break-and-make-way-to-explore-the-prominent-monuments-streets-architectures-and-unesco-recognized-sites-djM-sub-0 {
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-fq9 .auto-group-fkg7-gp7 .heritage-sites-revisit-history-on-a-vacation-historical-places-explore-historical-places-countless-ideas-for-an-epic-break-and-make-way-to-explore-the-prominent-monuments-streets-architectures-and-unesco-recognized-sites-djM .heritage-sites-revisit-history-on-a-vacation-historical-places-explore-historical-places-countless-ideas-for-an-epic-break-and-make-way-to-explore-the-prominent-monuments-streets-architectures-and-unesco-recognized-sites-djM-sub-1 {
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf {
+  box-sizing: border-box;
+  padding: 1.1rem 10.6rem 1rem 12rem;
+  width: 100%;
+  height: 79.2rem;
+  display: flex;
+  column-gap: 9.7rem;
+  align-items: center;
+  background-color: #0e0e0e;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo {
+  width: 34rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-cxhd-YfH {
+  margin-bottom: 1.3rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.6rem 0.3rem 1.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #2d2828;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-cxhd-YfH .rectangle-11-rvs {
+  margin-bottom: 0.1rem;
+  width: 30.8rem;
+  height: 18.4rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem 0.6rem 0 0;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-cxhd-YfH .auto-group-tkvo-a6B {
+  margin-right: 1.2rem;
+  width: 29.6rem;
+  height: 18rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-cxhd-YfH .auto-group-tkvo-a6B .rectangle-22-sqy {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 1rem;
+  background-color: #b6cd5a;
+  border-radius: 0.6rem;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-cxhd-YfH .auto-group-tkvo-a6B .item-1-j11 {
+  width: 1.3rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 1rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-cxhd-YfH .auto-group-tkvo-a6B .as-the-cradle-of-indian-culture-and-heritage-for-many-centuries-gwalior-is-a-timeless-treasure-of-art-and-music-the-cityscape-is-adorned-with-historical-monuments-and-a-hilltop-fort-that-are-souvenirs-of-the-dynasties-that-ruled-here-ECf {
+  width: 29.6rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 0;
+  top: 3.4rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-cxhd-YfH .auto-group-tkvo-a6B .gwalior-SZd {
+  width: 14.3rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 0;
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-yalw-8BZ {
+  box-sizing: border-box;
+  padding: 1rem 1.6rem 3.3rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #2e2929;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-yalw-8BZ .rectangle-21-efh {
+  margin-bottom: 0.4rem;
+  width: 30.8rem;
+  height: 18.4rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem 0.6rem 0 0;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-yalw-8BZ .auto-group-v6kh-MKD {
+  margin: 0rem 12rem 1rem 0rem;
+  width: calc(100% - 12rem);
+  height: 4.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-yalw-8BZ .auto-group-v6kh-MKD .auto-group-mse3-4jR {
+  margin: 0.7rem 1.6rem 0.9rem 0rem;
+  width: 3rem;
+  height: calc(100% - 1.6rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-yalw-8BZ .auto-group-v6kh-MKD .auto-group-mse3-4jR .rectangle-25-C4w {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #b6cd5a;
+  border-radius: 0.6rem;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-yalw-8BZ .auto-group-v6kh-MKD .auto-group-mse3-4jR .item-4-7xb {
+  width: 1.7rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-yalw-8BZ .auto-group-v6kh-MKD .thimpu-RyH {
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ja6s-oSo .auto-group-yalw-8BZ .far-removed-from-rapid-urbanisation-thimphu-the-capital-and-largest-city-of-bhutan-is-surrounded-by-a-himalayan-landscape-complete-with-valleys-rivers-and-mountains-Avs {
+  max-width: 29rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh {
+  margin-top: 0.1rem;
+  width: 34rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-qxxk-YAj {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1rem 1.6rem 4.1rem 1.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #2e2929;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-qxxk-YAj .rectangle-17-rx7 {
+  margin-bottom: 0.3rem;
+  width: 30.8rem;
+  height: 18.4rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem 0.6rem 0 0;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-qxxk-YAj .auto-group-men3-nKy {
+  margin-right: 0.8rem;
+  width: 30rem;
+  height: 14.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-qxxk-YAj .auto-group-men3-nKy .rectangle-23-vh5 {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0.8rem;
+  background-color: #b6cd5a;
+  border-radius: 0.6rem;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-qxxk-YAj .auto-group-men3-nKy .item-2-sMR {
+  width: 1.6rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 0.8rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-qxxk-YAj .auto-group-men3-nKy .known-for-the-magnificent-mehrangarh-fort-famous-palaces-and-lakes-jodhpur-is-a-popular-tourist-destination-divided-into-the-old-city-and-new-city-by-a-10-km-long-wall-Bd1 {
+  width: 30rem;
+  height: 11rem;
+  position: absolute;
+  left: 0;
+  top: 3.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-qxxk-YAj .auto-group-men3-nKy .jodhpur-2tX {
+  width: 15.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 0;
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-yy6j-KMq {
+  box-sizing: border-box;
+  padding: 1rem 1.6rem 3.4rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #2e2929;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-yy6j-KMq .rectangle-20-e9D {
+  margin-bottom: 0.3rem;
+  width: 30.8rem;
+  height: 18.4rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem 0.6rem 0 0;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-yy6j-KMq .auto-group-74qm-ZX5 {
+  margin: 0rem 10.5rem 1rem 0rem;
+  width: calc(100% - 10.5rem);
+  height: 4.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-yy6j-KMq .auto-group-74qm-ZX5 .auto-group-wdtm-tJT {
+  margin: 0.8rem 2rem 0.8rem 0rem;
+  width: 3rem;
+  height: calc(100% - 1.6rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-yy6j-KMq .auto-group-74qm-ZX5 .auto-group-wdtm-tJT .rectangle-26-Dbd {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #b6cd5a;
+  border-radius: 0.6rem;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-yy6j-KMq .auto-group-74qm-ZX5 .auto-group-wdtm-tJT .item-5-MSw {
+  width: 1.7rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-yy6j-KMq .auto-group-74qm-ZX5 .pushkar-583 {
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-q6s1-1Rh .auto-group-yy6j-KMq .home-to-rare-temples-shrines-and-picturesque-locations-pushkar-in-rajasthan-is-where-tourists-throng-to-find-their-peace-and-lose-themselves-in-the-rare-beauty-of-mother-nature-pLX {
+  max-width: 30.6rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u {
+  margin-top: 0.1rem;
+  width: 34rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-foap-zeK {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1rem 1.6rem 5.7rem 1.6rem;
+  width: 100%;
+  row-gap: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #2e2929;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-foap-zeK .rectangle-18-i4X {
+  width: 30.8rem;
+  height: 18.4rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem 0.6rem 0 0;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-foap-zeK .auto-group-t7qy-RzX {
+  margin-right: 10.2rem;
+  width: calc(100% - 10.2rem);
+  height: 4.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-foap-zeK .auto-group-t7qy-RzX .auto-group-vgis-a6j {
+  margin: 0.7rem 1.9rem 0.9rem 0rem;
+  width: 3rem;
+  height: calc(100% - 1.6rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-foap-zeK .auto-group-t7qy-RzX .auto-group-vgis-a6j .rectangle-24-VDh {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #b6cd5a;
+  border-radius: 0.6rem;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-foap-zeK .auto-group-t7qy-RzX .auto-group-vgis-a6j .item-3-qHZ {
+  width: 1.7rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-foap-zeK .auto-group-t7qy-RzX .mathura-x7H {
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-foap-zeK .famous-as-the-birthplace-of-lord-krishna-and-one-among-the-7-holy-cities-for-hindus-this-city-alongside-the-yamuna-river-is-an-important-pilgrimage-site-6DV {
+  max-width: 30.4rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-szt5-ghV {
+  box-sizing: border-box;
+  padding: 1rem 1.6rem 2.1rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #2e2929;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-szt5-ghV .rectangle-19-cLF {
+  margin-bottom: 0.4rem;
+  width: 30.8rem;
+  height: 18.4rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem 0.6rem 0 0;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-szt5-ghV .auto-group-mv5q-7H1 {
+  margin: 0rem 13.9rem 0.3rem 0rem;
+  width: calc(100% - 13.9rem);
+  height: 4.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-szt5-ghV .auto-group-mv5q-7H1 .auto-group-dqqb-Dqq {
+  margin: 0.7rem 1.9rem 0.9rem 0rem;
+  width: 3rem;
+  height: calc(100% - 1.6rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-szt5-ghV .auto-group-mv5q-7H1 .auto-group-dqqb-Dqq .rectangle-27-MBM {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #b6cd5a;
+  border-radius: 0.6rem;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-szt5-ghV .auto-group-mv5q-7H1 .auto-group-dqqb-Dqq .item-6-tSB {
+  width: 1.7rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-szt5-ghV .auto-group-mv5q-7H1 .hampi-zk7 {
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-fq9 .auto-group-2kfr-8Lf .auto-group-ajax-s3u .auto-group-szt5-ghV .the-renowned-unesco-world-heritage-site-and-the-once-magnificent-capital-of-the-vijayanagara-empire-hampi-attracts-backpackers-and-pilgrims-in-equal-numbers-due-to-its-intriguing-ruins-of-forts-and-temples-YWj {
+  max-width: 29.5rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
